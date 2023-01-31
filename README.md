@@ -10,5 +10,3 @@ Tech stack:
 * - Front-end ( ~ 1,5 roku nauki )
 
 ✔ - HTML + CSS + SCSS + RWD + bootstrap ✔ - JavaScript ES6+ ✔ - React ✔ - GIT/Github ✔ - Redux ✔ - AJAX API ✔ - React Router
-
-* - W trakcie nauki języka angielskiego
